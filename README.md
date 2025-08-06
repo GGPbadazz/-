@@ -14,10 +14,17 @@
 
 ### ✨ 核心功能
 
-- **📦 库存管理**：产品管理、实时库存、低库存预警
-- **🔄 出入库操作**：条码扫描、批量操作、详细记录
-- **📊 月度账本**：财务报表、成本核算、Excel导出
-- **📈 报表中心**：库存报告、交易统计、数据分析
+- **📦 智能库存**：实时库存监控、自动预警、批量操作
+- **� 条码扫描**：移动端扫码出入库、快速查找定位
+- **📊 财务报表**：月度账本、成本分析、一键Excel导出
+- **🎯 数据洞察**：可视化报表、库存趋势、交易统计
+
+### 🌟 项目亮点
+
+- **⚡ 即开即用**：Docker一键部署，5分钟上线
+- **📱 移动友好**：响应式设计，手机平板完美支持
+- **🔒 安全可靠**：JWT认证、数据加密、权限管理
+- **🎨 现代界面**：Vue3 + 精美UI，操作简单直观
 
 ### 🚀 快速开始
 
@@ -100,10 +107,17 @@ A modern warehouse management system designed for small businesses and factories
 
 ### ✨ Core Features
 
-- **📦 Inventory Management**: Product management, real-time inventory, low stock alerts
-- **🔄 In/Out Operations**: Barcode scanning, batch operations, detailed records
-- **📊 Monthly Ledger**: Financial reports, cost accounting, Excel export
-- **📈 Reports Center**: Inventory reports, transaction statistics, data analysis
+- **📦 Smart Inventory**: Real-time monitoring, auto alerts, batch operations
+- **📱 Barcode Scanning**: Mobile scanning, quick search & locate
+- **📊 Financial Reports**: Monthly ledger, cost analysis, Excel export
+- **🎯 Data Insights**: Visual reports, inventory trends, statistics
+
+### 🌟 Highlights
+
+- **⚡ Ready to Use**: One-click Docker deploy, online in 5 minutes
+- **� Mobile Friendly**: Responsive design, perfect for phones & tablets
+- **🔒 Secure & Reliable**: JWT auth, data encryption, permission control
+- **🎨 Modern UI**: Vue3 + beautiful interface, simple & intuitive
 
 ### 🚀 Quick Start
 
